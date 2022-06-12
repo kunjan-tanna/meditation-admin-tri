@@ -1,0 +1,6 @@
+{
+  "name": "Meditation",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./Meditations.js"
+}
